@@ -1,0 +1,16 @@
+{
+  "name": "pm2-daemon",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:AirDwing/pm2-daemon.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-dwing": "^1.1.0"
+  },
+  "dependencies": {
+    "@dwing/redis": "^1.0.0",
+    "pm2": "^2.6.1"
+  }
+}
